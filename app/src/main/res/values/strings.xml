@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">CVBuilderApp</string>
+    <string name="career_note">Software Engineer with over 5 years experience in developing applications in Java, Kotlin and Scala, both Agile and TDD enthusiast</string>
+    <string name="work_experience"><b>Languages</b>: Java, Kotlin, Scala\n<b>Frameworks</b>: SpringBoot, Android, Cats Effect\n<b>Microservices/Cloud</b>: Docker, Kafka, AWS, Azure, Kubernetes\n<b>Databases</b>: MySQL, Mongodb, Hbase
+    </string>
+    <string name="career_note_label">Career Note</string>
+    <string name="about_me_label">About Me</string>
+    <string name="about_me">Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Skilled leader who has the proven ability to motivate, educate and manage a team of professionals to build software programs and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight its core competencies, and further its success.</string>
+    <string name="my_college">My Colleges</string>
+    <string name="education">Education</string>
+    <string name="associate_android_developer">Associate Android Developer</string>
+    <string name="_11_8_2020">11/8/2020</string>
+    <string name="certification">Certification</string>
+    <string name="oracle_db_12c_administrator_certified_professional">Oracle DB 12c Administrator Certified Professional</string>
+    <string name="github">GitHub</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="my_contact">My Contact</string>
+    <string name="work_experience_label">Work Experience</string>
+    <string name="meta_facebook_inc">Meta - Facebook Inc.</string>
+    <string name="virtual_reality_content_engineer">Virtual Reality Content Engineer</string>
+    <string name="_2020_present">2020 - Present</string>
+    <string name="settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="saved_theme">theme</string>
+    <string name="login_title">Sign in to your account</string>
+    <string name="something_went_wrong">Something went wrong.</string>
+    <string name="my_twitter">https://twitter.com/danielOdich</string>
+    <string name="my_linkedin">https://www.linkedin.com/in/danielodich/</string>
+    <string name="my_github">https://github.com/OdichDaniel</string>
+    <string name="my_email">daniel_odich@mail.com</string>
+    <string name="email_subject">MDP Course</string>
+    <string name="email_body">Please, reach out to me for more information.</string>
+    <string name="my_phone">tel:641 000 0000</string>
+    <string name="intent_filter">mailto:</string>
+    <string name="intent_key">web</string>
+    <string name="linked_in_title">LinkedIn</string>
+    <string name="twitter_in_title">Twitter</string>
+    <string name="github_in_title">GitHub</string>
+    <string name="_4_7_2019">4/7/2019</string>
+    <string name="add">add</string>
+
+    <string name="login_email">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_btn">Login</string>
+
+
+    <string name="activity_login_auto_hint_email">Email</string>
+    <string name="activity_login_auto_hint_password">Password</string>
+
+
+    <string name="massachusetts">Massachusetts Institute of Technology</string>
+    <string name="bachelors_of_science_in_computer_science">Bachelors of Science in Computer Science</string>
+    <string name="master_of_science_in_computer_science">Master of Science in Computer Science</string>
+    <string name="maharishi_international_university">Maharishi International University</string>
+</resources>
